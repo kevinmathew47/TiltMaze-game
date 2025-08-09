@@ -42,6 +42,7 @@ A tilt-powered maze that rewards wobbly wrists. Tip your phone and watch your fa
 #### Installation
 \`\`\`bash
 git clone https://github.com/kevinmathew47/TiltMaze-game.git
+
 cd tilting-maze
 npm install
 \`\`\`
@@ -58,13 +59,12 @@ npm run dev
 **For Software:**
 
 ### Screenshots
-![Reference browser screenshot](https://sjc.microlink.io/Bq5Fghw9GfpvNEyjgSi9o_fjyLGz5HE96KqLQ4NjVsx6-bXRcUfEpagdWWuDKwP_X9UZvbQVjaOoAMHq4SW5yg.jpeg)  
-
-![In-Game Play](Add screenshot 2 URL here)  
+(https://drive.google.com/file/d/1MK7fEyt2yny47UfG8pGhxT4ozY_ySrHz/view?usp=sharing)  
 
 ## Project Demo
+
 ### Video
-[Add your demo video link here]  
+(https://drive.google.com/file/d/15McuRW0K86O8r5zA3YERIzVQuy-LACqu/view?usp=sharing)  
 ---
 
 Made with ❤️ at TinkerHub Useless Projects  
